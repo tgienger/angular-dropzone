@@ -17,6 +17,10 @@ Intended for versions of Meteor 1.0
 ```
 
 ## Usage
+Inject into your app:
+```
+angular.module('app', ['angular-meteor', 'ngDropzone']);
+```
 In your Angular Template you place the dropZone directive:
 
 ```
@@ -78,7 +82,7 @@ These will be overridden by any parameters set in the scope variable.
 
 
 ## Example:
-
+[Angular Dropzone - MeteorPad.com](http://meteorpad.com/pad/KvyQm7igGBAvootka/Angular-Dropzone-Example)
 
 
 ## Contributors
