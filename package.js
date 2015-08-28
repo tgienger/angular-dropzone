@@ -1,7 +1,7 @@
 Package.describe( {
   name: 'tgienger:angular-dropzone',
   summary: 'An angular-meteor directive for Dropzonejs v4.0.1',
-  version: '0.1.1',
+  version: '0.1.2',
   git: 'https://github.com/tgienger/angular-dropzone.git'
 } );
 
